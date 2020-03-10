@@ -1,0 +1,81 @@
+{
+  "uid" : "bf05db1b19ad773a",
+  "name" : "test_06",
+  "fullName" : "baidu.test_2#test_06",
+  "historyId" : "bfdb06d464e7ac8c45cbc09e1f445b1b",
+  "time" : {
+    "start" : 1583822928643,
+    "stop" : 1583822929644,
+    "duration" : 1001
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "start",
+    "time" : {
+      "start" : 1583822928641,
+      "stop" : 1583822928641,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "open_baidu",
+    "time" : {
+      "start" : 1583822928641,
+      "stop" : 1583822928641,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "baidu"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "host",
+    "value" : "chenjie-PC"
+  }, {
+    "name" : "thread",
+    "value" : "1216-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baidu.test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf05db1b19ad773a.json",
+  "parameterValues" : [ ]
+}

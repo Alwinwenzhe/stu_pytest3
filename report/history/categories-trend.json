@@ -1,0 +1,11 @@
+[ {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/pytest_ysy_inter/26/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/pytest_ysy_inter/25/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]
